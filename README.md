@@ -2,6 +2,14 @@
 python package for graphing systems of ODEs
 
 ## running the code
+### inline notebook (recommended for non jupyter notebook users)
+```python
+%matplotlib inline
+```
+### interactive notebook (recommended for jupyter notebooks)
+```python 
+%matplotlib notebook
+```
 ```python
 # import packages
 from ODEpy import ODEpy
