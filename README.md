@@ -1,4 +1,6 @@
 # ODEpy
+![My Image](IMAGES/clifford_attractor2.png)
+<br>
 python package for graphing systems of ODEs
 
 ## running the code
