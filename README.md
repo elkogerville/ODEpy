@@ -1,5 +1,5 @@
 # ODEpy
-![My Image](IMAGES/pendulum.jpg)
+![My Image](IMAGES/clifford.png)
 <br>
 python package for graphing systems of ODEs
 
