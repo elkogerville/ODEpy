@@ -12,12 +12,7 @@ python package for graphing systems of ODEs
 ```
 ```python
 # import packages
-from ODEpy import ODEpy
-from ODEpy import ODEplot
-from ODEpy import lorenz_system
-from ODEpy import clifford_attractor
-from ODEpy import rossler_attractor
-from ODEpy import pendulum
+from ODEpy import *
 # define constants
 l = (28., 10., 8./3.)
 # integrate
