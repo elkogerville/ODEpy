@@ -1,3 +1,5 @@
 from .ODEpy import *
 from .ODEplot import * 
-from .models import *
+from .ODEmodels import *
+from .ODEattractor import *
+from .ODEhelp import *
